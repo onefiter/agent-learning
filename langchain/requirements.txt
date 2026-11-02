@@ -1,0 +1,12 @@
+langchain>=0.3
+langchain-openai>=0.2
+langchain-community>=0.3
+langchain-chroma>=0.1
+langchain-huggingface>=0.1
+langchain-neo4j>=0.1   
+langgraph>=0.2        
+sentence-transformers>=3.0
+chromadb
+pydantic>=2
+pypdf>=4          # PDF文档加载（第2章起）
+reportlab>=4      # 生成示例PDF（scripts/make_demo_pdf.py）
